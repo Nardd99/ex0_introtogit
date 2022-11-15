@@ -1,5 +1,6 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:Red 
+Favorite food:pizza 
+Favorite musician/band:rihanna 
+Favorite movie:the best of me 
+Requested grade in the course:100
+ 
